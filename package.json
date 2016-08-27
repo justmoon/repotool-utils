@@ -1,0 +1,28 @@
+{
+  "name": "repotool-utils",
+  "version": "0.0.0",
+  "description": "Tools for repotool plugin authors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justmoon/repotool-utils.git"
+  },
+  "keywords": [
+    "repotool",
+    "plugin",
+    "tools"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/repotool-utils/issues"
+  },
+  "homepage": "https://github.com/justmoon/repotool-utils#readme",
+  "dependencies": {
+    "bluebird": "^3.4.3",
+    "lodash": "^4.15.0"
+  }
+}
